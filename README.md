@@ -28,10 +28,12 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="center">
-  <a href="https://github.com/Azzedde/Voice-Assistant"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azzedde&repo=Voice-Assistant&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Deepvision.ai"></a>
-  <a href="https://github.com/Azzedde/soai-aruco-markers"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azzedde&repo=soai-aruco-markers&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="LaTeX-Gboard-Dictionary"></a>
-  <a href="https://github.com/Azzedde/Social-Distancing-Tracker"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azzedde&repo=Social-Distancing-Tracker&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="unicode-formatter"></a>
-  <a href="https://github.com/Azzedde/Stock-Management-and-Invoicing"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azzedde&repo=Stock-Management-and-Invoicing&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="table2ascii"></a>
+  <a href="https://github.com/Azzedde/Voice-Assistant"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azzedde&repo=Voice-Assistant&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt=""></a>
+  <a href="https://github.com/Azzedde/soai-aruco-markers"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azzedde&repo=soai-aruco-markers&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt=""></a>
+  <a href="https://github.com/Azzedde/Social-Distancing-Tracker"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azzedde&repo=Social-Distancing-Tracker&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt=""></a>
+  <a href="https://github.com/Azzedde/Stock-Management-and-Invoicing"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azzedde&repo=Stock-Management-and-Invoicing&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt=""></a>
+  <a href="https://github.com/Azzedde/pfe-gpu"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azzedde&repo=pfe-gpu&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt=""></a>
+  
 </p>
 Check my other repos: <p align="left">
   <a href="https://github.com/Azzedde?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
