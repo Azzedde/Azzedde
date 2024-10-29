@@ -10,9 +10,9 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://twitter.com/azzedine_idir"><img width="32px"  alt="Twitter" title="Twitter" src="https://vectorseek.com/wp-content/uploads/2023/07/Twitter-X-New-Logo-Vector-2.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  @azzedine_idir
   <a href="https://www.linkedin.com/in/azzedine-idir-aitsaid-7bab84229/"><img width="32px" alt="Linkedin" title="Linkedin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  Azzedine Idir AIT SAID
 </p>
 
 <p align="center">
@@ -29,10 +29,10 @@
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="center">
   <a href="https://github.com/Azzedde/My-Workshops"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azzedde&repo=My-Workshops&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt=""></a>
-  <a href="https://github.com/Azzedde/QuestionAI/"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azzedde&repo=QuestionAI&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt=""></a>
-  <a href="https://github.com/Azzedde/Social-Distancing-Tracker"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azzedde&repo=Social-Distancing-Tracker&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt=""></a>
-  <a href="https://github.com/Azzedde/Stock-Management-and-Invoicing"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azzedde&repo=Stock-Management-and-Invoicing&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt=""></a>
-  <a href="https://github.com/Azzedde/pfe-gpu"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azzedde&repo=pfe-gpu&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt=""></a>
+  <a href="https://github.com/Azzedde/paper_to_podcast"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azzedde&repo=paper_to_podcast&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt=""></a>
+  <a href="https://github.com/Azzedde/AIrticle_writer"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azzedde&repo=AIrticle_writer&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt=""></a>
+  <a href="https://github.com/Azzedde/story_videos_generator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azzedde&repo=story_videos_generator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt=""></a>
+  <a href="https://github.com/Azzedde/LLM_Story_Game"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azzedde&repo=LLM_Story_Game&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt=""></a>
   
 </p>
 Check my other repos: <p align="left">
@@ -60,7 +60,7 @@ Check my other repos: <p align="left">
 
 ## 📈 Some stats:
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+
 <p align="center">
   <a href="https://github.com/Azzedde/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Azzedde' streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Azzedde&theme=monokai-metallian&hide_border=true"/>
@@ -70,7 +70,6 @@ Check my other repos: <p align="left">
 
 ## 📊 Github stats
 
-<!-- https://github.com/anuraghazra/github-readme-stats -->
 <details align="center"> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
