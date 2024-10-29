@@ -79,4 +79,4 @@ Check my other repos: <p align="left">
   
 </details>
 
-<a href="https://github.com/Azzedde/github-readme-activity-graph"><img alt="Azzedde' Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Azzedde&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/anuraghazra/github-readme-activity-graph"><img alt="Azzedde' Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Azzedde&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
