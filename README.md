@@ -33,6 +33,7 @@
   <a href="https://github.com/Azzedde/AIrticle_writer"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azzedde&repo=AIrticle_writer&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt=""></a>
   <a href="https://github.com/Azzedde/story_videos_generator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azzedde&repo=story_videos_generator&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt=""></a>
   <a href="https://github.com/Azzedde/LLM_Story_Game"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azzedde&repo=LLM_Story_Game&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt=""></a>
+    <a href="https://github.com/Azzedde/brainstormers"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Azzedde&repo=brainstormers&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt=""></a>
   
 </p>
 Check my other repos: <p align="left">
