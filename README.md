@@ -4,7 +4,7 @@
 
 <p align="center">
 <img src="https://jeremyjanin.com/voir-comment-photographier-aurores-boreales-finlande/images/northernlights_dome.gif">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer +Engineer+|+Data+Scientist;Fascinated+by+AI+and+polar+lights+!;I+believe+that+sky+is+not+the+limit+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Engineer+|+Data+Scientist;Fascinated+by+AI+and+polar+lights+!;I+believe+that+sky+is+not+the+limit+!" alt="Typing SVG" /></a>
 </p>
 
 <!-- Social icons section -->
